@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Prem Dairy</string>
+    <string name="title_activity_main">Prem Dairy</string>
+    <string name="package_name">com.premdairy.ledger</string>
+    <string name="custom_url_scheme">com.premdairy.ledger</string>
+</resources>

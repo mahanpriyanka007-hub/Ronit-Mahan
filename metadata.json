@@ -1,0 +1,6 @@
+{
+  "name": "Prem Dairy",
+  "description": "A professional dairy billing and customer ledger application for managing milk fat, SNF, weight, automatic rate calculations, cattle feed expenses, and periodic billing cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
